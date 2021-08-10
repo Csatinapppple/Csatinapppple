@@ -2,7 +2,7 @@
 - 👀 me loking.
 - 🌱 ag rape fruitng ...
 - 💞️ double heart spininge on ...
-- 📫 peo box
+- 📫 peo box send
 
 <!---
 Csatinapppple/Csatinapppple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
