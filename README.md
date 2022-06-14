@@ -1,7 +1,3 @@
-- 👋 this is me when im waivng
-- 👀 me loking.
-- 🌱 ag rape fruitng ...
-- 💞️ double heart spininge on ...
 - 📫 peo box send
 
 <!---
