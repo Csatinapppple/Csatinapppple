@@ -1,4 +1,4 @@
-- 📫 peo box send
+
 - https://www.linkedin.com/in/christian-plentz-b94944214/
 <!---
 Csatinapppple/Csatinapppple is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
